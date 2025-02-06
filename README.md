@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Koda125
 - 👀 I’m interested in boulder climbing and video games of all sorts.
-- 🌱 I’m currently learning to become a software engineer.
-- 💞️ I’m looking to collaborate on learning how to use Mac Terminal more fluidly.
+- 🌱 I’m currently practing my skills as a software engineer.
+- 💞️ I’m looking to collaborate on learning how to HTML5 Canvas within the bounds of React.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I did gymnastics for nearly 10 years. 
 
