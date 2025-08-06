@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Koda125
 - 👀 I’m interested in boulder climbing and video games of all sorts.
 - 🌱 I’m currently practing my skills as a software engineer.
-- 💞️ I’m looking to collaborate on learning how to HTML5 Canvas within the bounds of React.
+- I am looking to start my career as a Junior Developer.
+- I know JS, CSS, HTML, SQL, and am currently working on learning C#
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I did gymnastics for nearly 10 years. 
 
